@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufCdpVZ3DLYLKCLsaRW33pIcP1uWSMUwEKbsaKdh5m0TEFleyrl1WB7Dh9v1hrF5h754iehWgFfqvlHB5/TN4w==",
+  "success": true,
+  "projectFilePath": "E:\\Desarrollos\\DriveStorageDashboard\\DriveStorageDashboard\\DriveStorageDashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gf\\.nuget\\packages\\netcore5.0.microsoft.expression.drawing\\1.0.0\\netcore5.0.microsoft.expression.drawing.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
